@@ -1,4 +1,4 @@
-package org.example.mirai.plugin
+package org.PlumeSummer.game
 
 import net.mamoe.mirai.console.plugin.jvm.JvmPluginDescription
 import net.mamoe.mirai.console.plugin.jvm.KotlinPlugin
